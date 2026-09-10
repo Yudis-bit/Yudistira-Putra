@@ -2,7 +2,7 @@
 
 # Yudistira Putra
 
-**Systems Software Engineer
+**Systems Software Engineer -
 Compilers · GPU · Firmware · Correctness**
 
 `C` · `C++` · `Rust`  
