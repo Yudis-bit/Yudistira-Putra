@@ -2,7 +2,7 @@
 
 # Yudistira Putra
 
-**Systems Software Engineer — Compilers · GPU · Firmware · Correctness**
+**Systems Software Engineer - Compilers · GPU · Firmware · Correctness**
 
 `C` · `C++` · `Rust`  
 LLVM / AMDGPU · Vulkan · QEMU / x86_64 · RISC-V / OpenSBI · secp256k1
